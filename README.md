@@ -14,13 +14,13 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**
 ## 🛠️ Tech Stack
 
 - **HTML5** – Game structure
-- **CSS3** – Styling and layout
+- **CSS** – Styling and layout
 - **JavaScript** – Game logic and interactions
 
 ## 📁 File Structure
 
 rock-paper-scissors/
 ├── index.html # Main HTML file
-├── style.css # Styling
+├── styles.css # Styling
 ├── script.js # JavaScript logic
 └── README.md # Project documentation
