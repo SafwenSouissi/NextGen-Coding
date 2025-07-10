@@ -1,60 +1,26 @@
-# \# 🔢 Simple Calculator
+# ✊🖐✌️ Rock Paper Scissors Game
 
-# 
+A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer and see if you can beat the AI!
 
-# A lightweight and responsive calculator built using \*\*HTML\*\*, \*\*CSS\*\*, and \*\*JavaScript\*\*. It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-# 
+## 🎮 Features
 
-# 
+- Simple and intuitive interface
+- Real-time results and scoring
+- Responsive design (works on desktop and mobile)
+- Randomized computer choice for fairness
+- Option to restart the game
 
-# \## 🚀 Features
+## 🛠️ Tech Stack
 
-# 
+- **HTML5** – Game structure
+- **CSS3** – Styling and layout
+- **JavaScript** – Game logic and interactions
 
-# \- Responsive layout for mobile and desktop
+## 📁 File Structure
 
-# \- User-friendly interface
-
-# \- Basic arithmetic operations:
-
-# &nbsp; - Addition `+`
-
-# &nbsp; - Subtraction `-`
-
-# &nbsp; - Multiplication `×`
-
-# &nbsp; - Division `÷`
-
-# \- Clear (`C`) and backspace functionality
-
-# \- Keyboard input support (optional if implemented)
-
-# 
-
-# \## 🛠️ Tech Stack
-
-# 
-
-# \- \*\*HTML5\*\* – Structure of the calculator
-
-# \- \*\*CSS3\*\* – Styling and layout
-
-# \- \*\*JavaScript\*\* – Functionality and event handling
-
-# 
-
-# \## 📁 File Structure
-
-# 
-
-# calculator/
-
-# ├── index.html # Main HTML file
-
-# ├── style.css # Styling
-
-# ├── script.js # JavaScript logic
-
-# └── README.md # Project documentation
-
+rock-paper-scissors/
+├── index.html # Main HTML file
+├── style.css # Styling
+├── script.js # JavaScript logic
+└── README.md # Project documentation
