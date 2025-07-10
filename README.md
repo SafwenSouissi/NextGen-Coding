@@ -18,13 +18,13 @@ A lightweight and responsive calculator built using **HTML**, **CSS**, and **Jav
 ## 🛠️ Tech Stack
 
 - **HTML5** – Structure of the calculator
-- **CSS3** – Styling and layout
+- **CSS** – Styling and layout
 - **JavaScript** – Functionality and event handling
 
 ## 📁 File Structure
 
 Calculator/
 ├── index.html # Main HTML file
-├── style.css # Styling
-├── script.js # JavaScript logic
+├── index.js # JavaScript logic
+├── styles.css # Styling
 └── README.md # Project documentation
