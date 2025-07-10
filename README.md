@@ -23,7 +23,7 @@ A lightweight and responsive calculator built using **HTML**, **CSS**, and **Jav
 
 ## 📁 File Structure
 
-calculator/
+Calculator/
 ├── index.html # Main HTML file
 ├── style.css # Styling
 ├── script.js # JavaScript logic
