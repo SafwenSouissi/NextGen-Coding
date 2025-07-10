@@ -21,6 +21,6 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**
 
 rock-paper-scissors/
 ├── index.html # Main HTML file
+├── index.js # JavaScript logic
 ├── styles.css # Styling
-├── script.js # JavaScript logic
 └── README.md # Project documentation
