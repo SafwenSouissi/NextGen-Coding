@@ -25,6 +25,9 @@ A lightweight and responsive calculator built using **HTML**, **CSS**, and **Jav
 
 Calculator/
 ├── index.html # Main HTML file
+
 ├── index.js # JavaScript logic
+
 ├── styles.css # Styling
+
 └── README.md # Project documentation
