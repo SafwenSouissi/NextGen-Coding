@@ -21,9 +21,13 @@ A responsive and modern **Weather App** built using **HTML**, **CSS**, and **Jav
 ## 📁 File Structure
 
 weather-app/
+
 ├── index.html # Main HTML file
+
 ├── index.js # JavaScript logic & API calls
+
 ├── styles.css # CSS styles
+
 └── README.md # Project documentation
 
 
