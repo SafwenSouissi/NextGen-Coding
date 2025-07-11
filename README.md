@@ -24,6 +24,7 @@ A lightweight and responsive calculator built using **HTML**, **CSS**, and **Jav
 ## 📁 File Structure
 
 Calculator/
+
 ├── index.html # Main HTML file
 
 ├── index.js # JavaScript logic
