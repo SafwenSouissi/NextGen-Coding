@@ -31,7 +31,7 @@ weather-app/
 └── README.md # Project documentation
 
 
-##🧠 How It Works
+## 🧠 How It Works
 User enters a city name.
 
 JavaScript fetches weather data using the API.
