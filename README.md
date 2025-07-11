@@ -14,7 +14,7 @@ A responsive and modern **Weather App** built using **HTML**, **CSS**, and **Jav
 ## 🛠️ Tech Stack
 
 - **HTML5** – Page structure
-- **CSS3** – Layout and styling
+- **CSS** – Layout and styling
 - **JavaScript** – API integration and dynamic rendering
 - **Weather API** – [OpenWeatherMap](https://openweathermap.org/api)
 
