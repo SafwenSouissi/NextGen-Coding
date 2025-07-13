@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz App - Quiz</title>
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Quiz App</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="history.html">My History</a>
+    </nav>
+  </header>
+  <main>
+    <section id="quiz-container">
+      <div id="quiz-title"></div>
+      <div id="progress"></div>
+      <div id="question"></div>
+      <form id="choices"></form>
+      <div id="quiz-actions">
+        <button id="next-btn" type="button">Next</button>
+        <button id="submit-btn" type="button" style="display:none;">Submit</button>
+      </div>
+      <div id="quiz-result" style="display:none;"></div>
+      <div id="quiz-restart" style="display:none;">
+        <button id="restart-btn" type="button">Restart Quiz</button>
+        <button id="home-btn" type="button">Return Home</button>
+      </div>
+    </section>
+  </main>
+  <script src="../assets/js/data.js"></script>
+  <script src="../assets/js/quiz.js"></script>
+</body>
+</html>
